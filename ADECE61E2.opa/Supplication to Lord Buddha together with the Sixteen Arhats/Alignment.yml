@@ -1,0 +1,19 @@
+segment_sources:
+  P0F376910:
+    type: origin_type
+    relation: translation
+    language: en
+  P8BFBC77D:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a58fc8d702524f2fb98f6ab952c8c3a8:
+    P0F376910: 5338457a6f62437daa30e7fbc2490169
+    P8BFBC77D: bf298742aa3846c7ac9d32762321b4f6
+  2eb2bb2ceea940ca97625eb627494f83:
+    P0F376910: 2b6e3a48da194c899b2593b342ba4742
+    P8BFBC77D: 7695434e22db410b86819cfd99296222
+  32f6260c99dc4876b5c695fdfc8e7c1d:
+    P0F376910: 41523ce203f048d38596fd456085d0fb
+    P8BFBC77D: b084d4d212b2447facc268d052e8f15f
